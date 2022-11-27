@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Calendar" parent="Theme.AppCompat.Light.NoActionBar"></style>
+</resources>
